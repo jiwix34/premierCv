@@ -1,0 +1,2 @@
+@import url('/phone/head.css');
+@import /phone/foot.css

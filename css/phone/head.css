@@ -1,0 +1,32 @@
+#logo h1{
+	color:blue;
+	text-align:center;
+	font-size:40px;
+	font-family:arial, serif;
+	height:80px;
+	width:300px;
+	line-height:40px;
+	border:1px solid black;
+	border-radius: 100px;
+	background-image: url("/img/espace.jpg");
+	margin:auto;
+}
+section{
+	color:blue;
+
+
+}
+h2{
+	text-align:center;
+	color:blue;
+	text-decoration : underline;
+	border:1px solid red;
+	border-radius: 100px;
+	background-image: url("/img/espace.jpg");
+	width:150px;
+	height:50px;
+	line-height:50px;
+	font-size:20px;
+	margin:auto;
+}
+
